@@ -1,0 +1,3 @@
+1.we checked the python version and we created virtual environment
+2.we installed Streamlit, pypdf(resume should be in pdf format),python.dotenv
+3.imported google,genai,dotenv
